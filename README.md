@@ -11,13 +11,13 @@
 # How to Install
 - <code>apt update</code>
 - <code>apt install git -y</code>
-- <code>git clone https://github.com/techpanther22/Termux-Desktop.git</code>
+- <code>git clone https://github.com/andrejkuroglo8/Termux-Desktop.git</code>
 - <code>cd Termux-Desktop</code>
 - <code>chmod +x gui.sh</code>
 - <code>./gui.sh</code>
 
 # Single Command Installation
-<pre><code>apt update && apt install git -y && git clone https://github.com/techpanther22/Termux-Desktop && cd Termux-Desktop && chmod +x gui.sh && ./gui.sh</code></pre>
+<pre><code>apt update && apt install git -y && git clone https://github.com/andrejkuroglo8/Termux-Desktop && cd Termux-Desktop && chmod +x gui.sh && ./gui.sh</code></pre>
 
 # How to Start Termux Desktop Mode
 <ol>
