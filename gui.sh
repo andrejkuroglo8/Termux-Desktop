@@ -23,7 +23,7 @@ apt install xfce xfce4 -y
 
 printf " \e[32;1mInstalling Miscellaneous Packages ... \e[0m\n"
 pkg install openbox -y                   
-pkg install obconf -y
+pkg install obconf-qt -y
 pkg install xorg-xsetroot -y
 pkg install xterm -y
 pkg install xcompmgr -y
